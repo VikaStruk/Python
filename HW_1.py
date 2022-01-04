@@ -41,9 +41,9 @@ third_string = (first_string + second_string)
 print(third_string)
 
 # 11 Вывести в одну строку переменные типа String и Integer используя “,” (Запятую)
-# type_1 = 'I am'
-# type_2 = 24
-# print(type_1, type_2)
+ type_1 = 'I am'
+ type_2 = 24
+ print(type_1, type_2)
 
 # 12 Вывести в одну строку переменные типа String и Integer используя “+” (Плюс)
 type_1 = 'I am '
